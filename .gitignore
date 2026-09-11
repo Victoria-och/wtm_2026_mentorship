@@ -1,0 +1,2 @@
+*.log .env node_modules/ DS_Stores .env*local
+.env*.local
